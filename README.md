@@ -1,4 +1,4 @@
-# vue2test
+# ShoppingV
 
 ## Project setup
 ```
