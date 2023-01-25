@@ -4,7 +4,7 @@ module.exports = defineConfig({
   productionSourceMap: false,
   // 关闭 eslint
   lintOnSave: false,
-  publicPath: "./",
+  publicPath: "/ShoppingV/",
   // 代理跨域
   devServer: {
     proxy: {
