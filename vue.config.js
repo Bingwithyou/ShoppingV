@@ -4,7 +4,6 @@ module.exports = defineConfig({
   productionSourceMap: false,
   // 关闭 eslint
   lintOnSave: false,
-  assetsPublicPath: "./",
   publicPath: "./",
   // 代理跨域
   devServer: {
